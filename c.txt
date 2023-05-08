@@ -1,0 +1,10 @@
+total 1
+drwxr-xr-x 1 hp 197121  0 May  8 09:56 temps/
+drwxr-xr-x 1 hp 197121  0 May  8 09:56 php-helloworld/
+drwxr-xr-x 1 hp 197121  0 May  8 09:56 nodejs-helloworld/
+drwxr-xr-x 1 hp 197121  0 May  8 09:56 nodejs-app/
+drwxr-xr-x 1 hp 197121  0 May  8 09:56 example/
+-rw-r--r-- 1 hp 197121  0 May  8 09:56 b.txt
+-rw-r--r-- 1 hp 197121 56 May  8 09:56 README.md
+drwxr-xr-x 1 hp 197121  0 May  8 09:56 todoapp/
+-rw-r--r-- 1 hp 197121  0 May  8 09:57 c.txt
